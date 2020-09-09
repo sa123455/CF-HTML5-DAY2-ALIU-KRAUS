@@ -1,0 +1,28 @@
+div {
+    margin: 5px;
+}
+.left {
+    background-color: cadetblue;
+    border-style: solid;
+    border-color: darkblue;
+}
+
+.right {
+    background-color:beige;
+    border-style:solid;
+    border-color: darkslategray;
+}
+
+
+
+img {
+    width: 100%;
+}
+
+h1 {
+    
+    padding:5px;
+}
+
+
+
