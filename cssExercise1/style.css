@@ -1,0 +1,35 @@
+div {
+    margin: 5px;
+}
+.left {
+    background-color: cadetblue;
+    border-style: solid;
+    border-color: darkblue;
+}
+
+.right {
+    background-color:beige;
+    border-style:solid;
+    border-color: darkslategray;
+}
+
+ #third > p {
+     display: none;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    display: none;
+    padding:5px;
+}
+
+#second div {
+    visibility: hidden;
+}
+
+#sixth img {
+    visibility: visible;
+}
